@@ -2,7 +2,7 @@
 
 Welcome to the repository for my restaurant website project! This project is a showcase of my frontend development skills using React. The website demonstrates my ability to create a visually appealing, responsive, and user-friendly interface for a restaurant.
 
-You can view the live website here: [gerichtrestaurant.site](https://gerichtrestaurant.site)
+You can view the live website here: [Gericht Restaurant](https://gerichtrestaurant.site)
 
 ![Website Screenshot](GerichtR.png)
 
