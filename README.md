@@ -9,10 +9,6 @@ Welcome to the repository for my restaurant website project! This project is a s
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
